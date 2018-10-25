@@ -1,1 +1,2 @@
 # NewRepo
+AMA is AMAzing!
